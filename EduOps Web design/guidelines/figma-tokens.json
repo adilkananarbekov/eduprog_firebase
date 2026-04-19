@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "name": "EduOps UI Tokens",
+    "source": "src/styles/theme.css",
+    "version": "1.0.0"
+  },
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#1A1A1A",
+    "card": "#ffffff",
+    "cardForeground": "#1A1A1A",
+    "primary": "#da0b25",
+    "primaryForeground": "#ffffff",
+    "secondary": "#f5f5f5",
+    "secondaryForeground": "#1A1A1A",
+    "muted": "#f5f5f5",
+    "mutedForeground": "#666666",
+    "accent": "#1e40af",
+    "accentForeground": "#ffffff",
+    "destructive": "#da0b25",
+    "destructiveForeground": "#ffffff",
+    "border": "#E5E5E5",
+    "ring": "#da0b25",
+    "sidebar": "#ffffff",
+    "sidebarForeground": "#666666",
+    "sidebarPrimary": "#da0b25",
+    "sidebarPrimaryForeground": "#ffffff",
+    "sidebarAccent": "#f5f5f5",
+    "sidebarAccentForeground": "#1A1A1A",
+    "sidebarBorder": "#E5E5E5"
+  },
+  "radius": {
+    "base": 8,
+    "sm": 4,
+    "md": 6,
+    "lg": 8,
+    "xl": 12
+  },
+  "spacing": {
+    "xs": 4,
+    "sm": 8,
+    "md": 12,
+    "lg": 16,
+    "xl": 24,
+    "xxl": 32
+  },
+  "typography": {
+    "baseFontSize": 16,
+    "fontWeightNormal": 400,
+    "fontWeightMedium": 500,
+    "styles": {
+      "h1": { "size": 30, "lineHeight": 38, "weight": 500 },
+      "h2": { "size": 24, "lineHeight": 32, "weight": 500 },
+      "h3": { "size": 20, "lineHeight": 28, "weight": 500 },
+      "body": { "size": 16, "lineHeight": 24, "weight": 400 },
+      "small": { "size": 14, "lineHeight": 20, "weight": 400 },
+      "caption": { "size": 12, "lineHeight": 16, "weight": 400 }
+    }
+  },
+  "breakpoints": {
+    "mobileMax": 767,
+    "tabletMin": 768,
+    "tabletMax": 1023,
+    "desktopMin": 1024
+  }
+}
